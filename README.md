@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arijeet%20Mishra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" alt="Arijeet Mishra - Aspiring Data Analyst"/>
+<h3><code>arijeet@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="420" alt="Arijeet Mishra - ASCII portrait" /></td>
+<td valign="top"><img src="./terminal.svg" width="420" alt="Arijeet Mishra - terminal info card" /></td>
+</tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijeet-mishra-n28/)
 [![Profile Views](https://komarev.com/ghpvc/?username=arijeetmishra&label=Profile%20Views&color=2c5364&style=for-the-badge)](https://github.com/arijeetmishra)
