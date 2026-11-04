@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="880.0" viewBox="0 0 840.0 880.0">
+<style>.a{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9;font-size:14.3px}.t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#7d8590;font-size:12px}@media (prefers-reduced-motion: reduce){#r{display:none}}</style>
+<rect width="840.0" height="880.0" rx="12" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="839.0" height="879.0" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="840.0" y2="30" stroke="#30363d"/>
+<circle cx="20" cy="15.0" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="15.0" r="5" fill="#27c93f"/>
+<text class="t" x="420.0" y="19.0" text-anchor="middle">arijeet@github: ~$ ./portrait.sh</text>
+<clipPath id="c">
+<rect id="r" x="20" y="37" width="800.0" height="0">
+<animate attributeName="height" from="0" to="800.0" dur="5.0s" fill="freeze"/>
+</rect>
+</clipPath>
+<g clip-path="url(#c)">
+<text class="a" xml:space="preserve">
+<tspan x="20" y="49" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+<tspan x="20" y="66" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+<tspan x="20" y="83" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+<tspan x="20" y="99" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+<tspan x="20" y="116" textLength="800" lengthAdjust="spacing">                                  -=cs##c*=--:                                            </tspan>
+<tspan x="20" y="133" textLength="800" lengthAdjust="spacing">                             :+cs##%%%%%%%###%##c=                                        </tspan>
+<tspan x="20" y="149" textLength="800" lengthAdjust="spacing">                            *#%@@@@@@@@@@@%%@@@@@@#=                                      </tspan>
+<tspan x="20" y="166" textLength="800" lengthAdjust="spacing">                         -+s%%@@@@@@@@@@@@@@@%@@@@@@c                                     </tspan>
+<tspan x="20" y="183" textLength="800" lengthAdjust="spacing">                      *s##%%%@@@@@@@@@@@@@@@@%%@@@@@@c                                    </tspan>
+<tspan x="20" y="199" textLength="800" lengthAdjust="spacing">                     :c#%%%@@@@@@@@@@@@@@@@@@@%@@%@@@@%+                                  </tspan>
+<tspan x="20" y="216" textLength="800" lengthAdjust="spacing">                      #@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@%@c                                 </tspan>
+<tspan x="20" y="233" textLength="800" lengthAdjust="spacing">                     :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%c                                 </tspan>
+<tspan x="20" y="249" textLength="800" lengthAdjust="spacing">                     =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%*                                  </tspan>
+<tspan x="20" y="266" textLength="800" lengthAdjust="spacing">                      c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%                                   </tspan>
+<tspan x="20" y="283" textLength="800" lengthAdjust="spacing">                       #@@@@@%%%%%#c+=++*cs%@%@@@@@@@@+                                   </tspan>
+<tspan x="20" y="299" textLength="800" lengthAdjust="spacing">                       -@@@@s*****=:    -+s%%%%%%%@@@@-                                   </tspan>
+<tspan x="20" y="316" textLength="800" lengthAdjust="spacing">                        #@%c**css#%#*-:=c####sssccs#@#c:                                  </tspan>
+<tspan x="20" y="333" textLength="800" lengthAdjust="spacing">                       +cc#s*s%%##scc+-*s*+c###s**s%#cs-                                  </tspan>
+<tspan x="20" y="349" textLength="800" lengthAdjust="spacing">                       +==cscc+=----=-:-++=======*#%c*c:                                  </tspan>
+<tspan x="20" y="366" textLength="800" lengthAdjust="spacing">                       ---=+=-    :--: :--:::``:-+#s**=                                   </tspan>
+<tspan x="20" y="383" textLength="800" lengthAdjust="spacing">                        =--+*==-::=+**+css*----=+s#s**                                    </tspan>
+<tspan x="20" y="399" textLength="800" lengthAdjust="spacing">                         ==+c*=-::-=++++++=---=+c#s*=                                     </tspan>
+<tspan x="20" y="416" textLength="800" lengthAdjust="spacing">                          ::*c+==+*c*=-=*cc*==+cs#-                                       </tspan>
+<tspan x="20" y="433" textLength="800" lengthAdjust="spacing">                            -s**++*c*===*cc+=+cs##                                        </tspan>
+<tspan x="20" y="449" textLength="800" lengthAdjust="spacing">                             cs**=---====--=+s#s##:                                       </tspan>
+<tspan x="20" y="466" textLength="800" lengthAdjust="spacing">                              ssc*+==---=++*s#####                                        </tspan>
+<tspan x="20" y="483" textLength="800" lengthAdjust="spacing">                              +s#%#sc**ccs#%@%%%#s:                                       </tspan>
+<tspan x="20" y="499" textLength="800" lengthAdjust="spacing">                             -**c%@@@@@@@@@@@@%%#s+=--:                                   </tspan>
+<tspan x="20" y="516" textLength="800" lengthAdjust="spacing">                           =+==+=+c#%%%%%%%%%%sc**-: :=                                   </tspan>
+<tspan x="20" y="533" textLength="800" lengthAdjust="spacing">                         `==+**+===+++===+****==+*:::::`  +ccs###scc+=-                   </tspan>
+<tspan x="20" y="549" textLength="800" lengthAdjust="spacing">                         =-c@%c+====++++++=++===*+   -=:::*@@@@@@@@@@@@#`                 </tspan>
+<tspan x="20" y="566" textLength="800" lengthAdjust="spacing">                      :-*:-sc=++=---=======++=-=*:   `+=- :s@@@@@%%@@@@@c                 </tspan>
+<tspan x="20" y="583" textLength="800" lengthAdjust="spacing">                  -*s%@@@::c+-===----=====+====+-     +*=  :%@@@%%%@@@@@#-:               </tspan>
+<tspan x="20" y="599" textLength="800" lengthAdjust="spacing">               =s@@@@@@@@+ ---::::----=====---=+:=:-  -+-   c@@%%%@@@@@@@=--              </tspan>
+<tspan x="20" y="616" textLength="800" lengthAdjust="spacing">             +%@@%#%%@@@@c:  ::   `::::----:-c#s#%##%sc*:   :%@@%@@@@@@@@* -:             </tspan>
+<tspan x="20" y="633" textLength="800" lengthAdjust="spacing">            =@@@%#s#%@@@@c                 `+*c+-    -=+-   :s@@@@@@@@@@@*  -:            </tspan>
+<tspan x="20" y="649" textLength="800" lengthAdjust="spacing">            :@@@%%%%%%@@@+     :*-         =-           =   :-s@@%%@@@@@@c   -            </tspan>
+<tspan x="20" y="666" textLength="800" lengthAdjust="spacing">          :  @@@%%%%%%%@@-   :s%+=cc+-+=- :c      :  :: -:     %@#s###%@@s    -           </tspan>
+<tspan x="20" y="683" textLength="800" lengthAdjust="spacing">         -   @@@%%%%%%%@@- -s%c-  :-    :     :   :   :  -     #@@%%%%%@@* ::::-          </tspan>
+<tspan x="20" y="699" textLength="800" lengthAdjust="spacing">        :    %@@@%%%%%%@@+-@s   :   :         `   =   -  -=  ::-%@@@@@@@@#  --:--         </tspan>
+<tspan x="20" y="716" textLength="800" lengthAdjust="spacing">       :     +@@@%%%%%@@@%:`     :   `    :+   :  =   -   +:  - -@@@@@@@@*      =         </tspan>
+<tspan x="20" y="733" textLength="800" lengthAdjust="spacing">             :@@@%%@@@@@@%:          :     =:  -   :  -:  `+- :- c@@@@@@@=-     :=        </tspan>
+<tspan x="20" y="749" textLength="800" lengthAdjust="spacing">          :   %@@%%%@%%@@s`      :   :     -:  -:          :c  : :%@@@@@@- ---:  --       </tspan>
+<tspan x="20" y="766" textLength="800" lengthAdjust="spacing">      :   :   s@@@@@@@@@@s`      :   :     =-  :=:     :    *=  : *@@@@@@-  = -:  +:      </tspan>
+<tspan x="20" y="783" textLength="800" lengthAdjust="spacing">              :++++++++++-                             `    ::     ++++++                 </tspan>
+<tspan x="20" y="799" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+<tspan x="20" y="816" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+<tspan x="20" y="833" textLength="800" lengthAdjust="spacing">                                                                                          </tspan>
+</text>
+</g>
+<line x1="0" y1="837.0" x2="840.0" y2="837.0" stroke="#30363d"/>
+<text class="t" x="20" y="856.0">arijeet@github:~$ whoami <tspan fill="#c9d1d9">Arijeet Mishra</tspan>
+<tspan fill="#c9d1d9" opacity="0">&#9612;<set attributeName="opacity" to="1" begin="5.0s" fill="freeze"/>
+</tspan>
+</text>
+</svg>
